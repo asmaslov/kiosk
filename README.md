@@ -1,4 +1,4 @@
-#kiosk
+# kiosk
 
 Training project for the study of embedded systems. Contains an application and scripts for building demo kiosk system.
 
